@@ -1,0 +1,39 @@
+/*Cabeçalho*/
+header{
+	background-color: #CA3F8A;
+	color: #fff;
+	padding: 15px;
+	text-align: center;
+	border-bottom: 10px solid #CA3F8A; 
+	height: 100px;
+}
+
+.btn{
+   	 color: #090808;
+   	 display: block;
+   	 font-size: 14px;
+   	 font-weight: bold;
+   	 line-height: 45px;
+   	 text-align: center;
+   	 text-decoration: none;
+   	 text-transform: uppercase;
+   	 text-shadow:1px 1px 0 #FFF;
+   	 padding: 5px 15px;
+   	 position: relative;
+   	 width: 1890px;
+}
+/*Grid de Produtos*/
+h3{
+	color: #090808;
+   	 display: block;
+   	 font-size: 14px;
+   	 font-weight: bold;
+   	 line-height: 45px;
+   	 text-align: center;
+   	 text-decoration: none;
+   	 text-transform: uppercase;
+   	 text-shadow:1px 1px 0 #FFF;
+   	 padding: 5px 15px;
+   	 position: relative;
+     width: 1890px;
+}
